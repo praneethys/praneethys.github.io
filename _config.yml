@@ -1,0 +1,18 @@
+title: Praneeth Yerrapragada
+description: Full Stack Engineer | AI Engineer | Engineering Leader
+# url: "http://yourdomain.com" # uncomment and set your domain for production
+# baseurl: "/my-portfolio" # if hosted in a subfolder like github.com/username/my-portfolio
+
+# Permalinks
+permalink: pretty
+
+# Build settings
+markdown: kramdown
+theme: minima # You can choose a different theme or remove if you're building from scratch
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
